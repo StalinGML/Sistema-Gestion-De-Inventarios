@@ -1,0 +1,4 @@
+sofa,10,99.99
+almohada,40,5.75
+ropero,7,225.0
+cama,10,125.0
